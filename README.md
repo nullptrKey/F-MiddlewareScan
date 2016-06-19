@@ -18,3 +18,4 @@ python F-MiddlewareScan.py -h 10.111.1.22 -p 80,7001,8080 -m 200 -t 6<br>
 新增插件需要在 plugin_config.ini配置文件中新增关联（多个漏洞插件以逗号隔开）。<br>
 中间件识别在discern_config.ini文件中配置（支持文件内容和header识别）<br>
 <br>
+原作者项目地址：https://github.com/ywolf/
